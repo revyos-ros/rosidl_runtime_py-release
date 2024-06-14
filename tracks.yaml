@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/rosidl_runtime_py-release.git
 tracks:
   eloquent:
     actions:
